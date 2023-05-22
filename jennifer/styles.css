@@ -1,0 +1,19 @@
+body{padding: 5em;
+background-color:#D3C4E3; 
+color:#3D518C;
+font-size:1.5em;
+font-family: 'Comic Neue', cursive;}
+
+h1,h2,h3{text-align: center;}
+
+p{width:750px;}
+/*The next rule centers and spaces the media*/
+img, video, audio, canvas, p{
+    display: block; 
+    margin: 0 auto;
+    padding-bottom: 2em}
+.credits{font-size: 0.5em;
+    color: #F3E7E2;}
+a{color:#757184;
+text-decoration: none;
+font-size:2em;}
